@@ -10,6 +10,7 @@ fun main(args: Array<String>) {
     val fixedNum:Int = 10
 
     var myname = "Ishaq"
+    var myname2:string ="Ansh"
 
     var numWithoutType = 10
 
